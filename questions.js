@@ -38,8 +38,8 @@ var answers_rounds = [
 	['Car/Truck', 23],
 	['Hair', 15],
 	['Big Tallywacker/"Big Hands-Feet"', 9],
-        ['Lovemaking/Women', 6]
-	['Hardworking/Their Work', 3],
+        ['Lovemaking/Women', 6],
+	['Hardworking/Their Work', 3]
     ],[
 	['Black Cat', 100],
 	['Walking Under Ladder', 75],
